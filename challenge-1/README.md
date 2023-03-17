@@ -20,9 +20,9 @@
 
 Step 1: Create a fork of the repo
 
-Step 2: Create a new branch with your name, level and challenge like <YOURNAME_LEVEL_CHALLENGE_1>
+Step 2: Create a new branch with your name, level and challenge like <YOURNAME_CHALLENGE_1>
 
-Step 3: In the respective challenge directory create a folder named after you. (Example: When contributing to zkThon/Levels/Easy/challenge-1 solution, create a folder anmed as <YOUR_NAME>.)
+Step 3: In the respective challenge directory create a folder named after you. (Example: When contributing to zkThon/challenge-1 solution, create a folder named as <YOUR_NAME>.)
 
 Step 4: Now , create two folders named as smart_contracts and Frontend
 
