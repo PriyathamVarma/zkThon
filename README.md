@@ -1,6 +1,5 @@
 # zkThon ->> Polygon
+
 **For Polygon zkThon-23**
 
-<img src="" alt="main"/>
-
-
+<img src="/assets/zkThon.png" alt="main"/>
